@@ -5,3 +5,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | [Javascript](./Javascript/Create_Hello_World_Function.js) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | Easy | [Javascript](./Javascript/Counter.js) |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Easy | [Javascript](./Javascript/Counter_II.js) |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy | [Javascript](./Javascript/Apply_Transform_Over_Each_Element_in_Array.js) |
