@@ -7,3 +7,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | Easy | [Javascript](./Javascript/Counter_II.js) |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy | [Javascript](./Javascript/Apply_Transform_Over_Each_Element_in_Array.js) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy | [Javascript](./Javascript/Filter_Elements_from_Array.js) |
+| 2626 | [Array Reduce Transformation]() | Easy | [Javascript](./Javascript/Array_Reduce_Transformation.js) |
