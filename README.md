@@ -8,3 +8,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | Easy | [Javascript](./Javascript/Apply_Transform_Over_Each_Element_in_Array.js) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | Easy | [Javascript](./Javascript/Filter_Elements_from_Array.js) |
 | 2626 | [Array Reduce Transformation]() | Easy | [Javascript](./Javascript/Array_Reduce_Transformation.js) |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | Easy | [Javascript](./Javascript/Function_Composition.js) |
