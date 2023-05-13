@@ -10,3 +10,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | Easy | [Javascript](./Javascript/Array_Reduce_Transformation.js) |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | Easy | [Javascript](./Javascript/Function_Composition.js) |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | Easy | [Javascript](./Javascript/Allow_One_Function_Call.js) |
+| 2623 | [Memoize](https://leetcode.com/problems/memoize/) | Medium | [Javascript](./Javascript/Memoize.js) |
