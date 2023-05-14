@@ -11,3 +11,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | Easy | [Javascript](./Javascript/Function_Composition.js) |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | Easy | [Javascript](./Javascript/Allow_One_Function_Call.js) |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | Medium | [Javascript](./Javascript/Memoize.js) |
+| 2632 | [Curry](https://leetcode.com/problems/curry/) | Medium | [Javascript](./Javascript/Curry.js) |
