@@ -12,3 +12,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | Easy | [Javascript](./Javascript/Allow_One_Function_Call.js) |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | Medium | [Javascript](./Javascript/Memoize.js) |
 | 2632 | [Curry](https://leetcode.com/problems/curry/) | Medium | [Javascript](./Javascript/Curry.js) |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep/) | Easy | [Javascript](./Javascript/Sleep.js) |
