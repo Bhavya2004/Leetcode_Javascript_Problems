@@ -13,3 +13,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | Medium | [Javascript](./Javascript/Memoize.js) |
 | 2632 | [Curry](https://leetcode.com/problems/curry/) | Medium | [Javascript](./Javascript/Curry.js) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | Easy | [Javascript](./Javascript/Sleep.js) |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | Easy | [Javascript](./Javascript/Promise_Time_Limit.js) | 
