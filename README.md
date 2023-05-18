@@ -15,3 +15,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | Easy | [Javascript](./Javascript/Sleep.js) |
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | Easy | [Javascript](./Javascript/Promise_Time_Limit.js) | 
 | 2636 | [Promise Pool](https://leetcode.com/problems/promise-pool/) | Medium | [Javascript](./Javascript/Promise_Pool.js) |
+| 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | Medium | [Javascript](./Javascript/Cache_With_Time_Limit.js) |
