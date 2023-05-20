@@ -17,3 +17,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2636 | [Promise Pool](https://leetcode.com/problems/promise-pool/) | Medium | [Javascript](./Javascript/Promise_Pool.js) |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | Medium | [Javascript](./Javascript/Cache_With_Time_Limit.js) |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce/) | Medium | [Javascript](./Javascript/Debounce.js) |
+| 2676 | [Throttle](https://leetcode.com/problems/throttle/) | Medium | [Javascript](./Javascript/Throttle.js) |
