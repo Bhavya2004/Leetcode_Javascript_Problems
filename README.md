@@ -18,3 +18,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | Medium | [Javascript](./Javascript/Cache_With_Time_Limit.js) |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce/) | Medium | [Javascript](./Javascript/Debounce.js) |
 | 2676 | [Throttle](https://leetcode.com/problems/throttle/) | Medium | [Javascript](./Javascript/Throttle.js) |
+| 2628 | [JSON Deep Equal](https://leetcode.com/problems/json-deep-equal/) | Medium | [Javascript](./Javascript/JSON_Deep_Equal.js) | 
