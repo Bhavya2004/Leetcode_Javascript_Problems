@@ -20,3 +20,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2676 | [Throttle](https://leetcode.com/problems/throttle/) | Medium | [Javascript](./Javascript/Throttle.js) |
 | 2628 | [JSON Deep Equal](https://leetcode.com/problems/json-deep-equal/) | Medium | [Javascript](./Javascript/JSON_Deep_Equal.js) | 
 | 2633 | [Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/) | Medium | [Javascript](./Javascript/Convert_Object_to_JSON_String.js) |
+| 2675 | [Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/) | Medium | [Javascript](./Javascript/Array_of_Objects_to_Matrix.js) |
