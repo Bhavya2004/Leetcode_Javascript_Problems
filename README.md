@@ -24,3 +24,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2700 | [Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/) | Medium | [Javascript](./Javascript/Differences_Between_Two_Objects.js) |
 | 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | Easy | [Javascript](./Javascript/Chunk_Array.js) | 
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Javascript](./Javascript/Flatten_Deeply_Nested_Array.js) |
+| 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | [Javascript](./Javascript/Array_Prototype_Last.js) |
