@@ -25,3 +25,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | Easy | [Javascript](./Javascript/Chunk_Array.js) | 
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Javascript](./Javascript/Flatten_Deeply_Nested_Array.js) |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | [Javascript](./Javascript/Array_Prototype_Last.js) |
+| 2631 | [Group By](https://leetcode.com/problems/group-by/) | Medium | [Javascript](./Javascript/Group_By.js)
