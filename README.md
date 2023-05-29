@@ -26,3 +26,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | Medium | [Javascript](./Javascript/Flatten_Deeply_Nested_Array.js) |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | Easy | [Javascript](./Javascript/Array_Prototype_Last.js) |
 | 2631 | [Group By](https://leetcode.com/problems/group-by/) | Medium | [Javascript](./Javascript/Group_By.js)
+| 2618 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | Medium | [Javascript](./Javascript/Check_if_Object_Instance_of_Class.js) |
