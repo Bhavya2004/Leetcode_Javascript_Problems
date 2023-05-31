@@ -28,3 +28,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2631 | [Group By](https://leetcode.com/problems/group-by/) | Medium | [Javascript](./Javascript/Group_By.js)
 | 2618 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | Medium | [Javascript](./Javascript/Check_if_Object_Instance_of_Class.js) |
 | 2693 | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | Medum | [Javascript](./Javascript/Call_Function_with_Custom_Context.js) |
+| 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | Medium | [Javascript](./Javascript/Event_Emitter.js) |
