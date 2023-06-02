@@ -30,3 +30,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2693 | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | Medum | [Javascript](./Javascript/Call_Function_with_Custom_Context.js) |
 | 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | Medium | [Javascript](./Javascript/Event_Emitter.js) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | Easy | [Javascript](./Javascript/Array_Wrapper.js) |
+| 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | Easy | [Javascript](./Javascript/Generate_Fibonacci_Sequence.js) |
