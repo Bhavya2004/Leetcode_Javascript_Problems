@@ -31,3 +31,4 @@ This repository contains the javascript questions of the leetcode platform......
 | 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | Medium | [Javascript](./Javascript/Event_Emitter.js) |
 | 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | Easy | [Javascript](./Javascript/Array_Wrapper.js) |
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | Easy | [Javascript](./Javascript/Generate_Fibonacci_Sequence.js) |
+| 2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/) | Medium | [Javascript](./Javascript/Nested_Array_Generator.js) |
